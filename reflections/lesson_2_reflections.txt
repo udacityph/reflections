@@ -6,3 +6,11 @@ Have to tell git where the repository root is.
 How can you use the staging area to make sure you have one commit per logical change?
 
 Compare, analyze and resolve any changes that are not part of the logical change.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I want to experiment or test features. When I have a working version and want to be able to fix bugs in it while working on the next version
+
+How do the diagrams help you visualize the branch structure?
+By showing the commits and where they were branched off
+
