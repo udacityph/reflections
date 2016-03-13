@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 git creates the folder .git in the repository root. .git contains the metadata information structure. 
 Have to tell git where the repository root is.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Compare, analyze and resolve any changes that are not part of the logical change.
