@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+git creates the folder .git in the repository root. .git contains the metadata information structure. 
+Have to tell git where the repository root is.
