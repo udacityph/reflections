@@ -14,3 +14,6 @@ When I want to experiment or test features. When I have a working version and wa
 How do the diagrams help you visualize the branch structure?
 By showing the commits and where they were branched off
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+
